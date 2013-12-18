@@ -1,5 +1,14 @@
-I'd like to present a standalone command line vanity address generator 
-called vanitygen.
+Added support for Frozencoin using the -C (for COLD :) ) switch.
+To compile in Linux follow the instructions below:
+sudo apt-get update
+sudo apt-get install build-essential git libssl-dev libpcre3-dev
+git clone https://github.com/Mark-Leck/vanitygen
+sudo make
+
+Once compiled:
+./vanitygen -C Frosty
+
+Frozen donations welcome @ FrostyyYKZB6d9EEKPGjkzghqk64on4REW
 
 There are plenty of quality tools to do this right now already.  So why 
 use vanitygen?  The main reason is that it is fast, more than an order 
