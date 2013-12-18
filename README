@@ -6,9 +6,9 @@ git clone https://github.com/Mark-Leck/vanitygen
 sudo make
 
 Once compiled:
-./vanitygen -C Frosty
+./vanitygen -C F
 
-Frozen donations welcome @ FrostyyYKZB6d9EEKPGjkzghqk64on4REW
+Frozen donations welcome @ FCksANFkrXQDHH31C87MJ9BCGan31EW4R9
 
 There are plenty of quality tools to do this right now already.  So why 
 use vanitygen?  The main reason is that it is fast, more than an order 
